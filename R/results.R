@@ -49,8 +49,5 @@ process_results <- function(results_file, summary_file) {
 # Process and summarize results
 results_data <- process_results(results_file, summary_file)
 
-# Visualize results
-gini_plot <- visualize_results(results_data$results, plot_file)
-
 # --- Completion ---------------------------------------------------------------
 message("Results processing and reporting completed successfully!")
