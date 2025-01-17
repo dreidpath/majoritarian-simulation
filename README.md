@@ -89,13 +89,29 @@ Lorenz curve illustrating inequality:
 
 ---
 
-## Contributing
-Contributions are welcome! Please fork the repository and create a pull request for major changes.
+## Citation
+
+If you use this repository in your research or publication, please cite it as follows:
+
+**Bibtex**
+@software{reidpath_majoritarian_simulation_2025,
+  author = {Reidpath, Daniel D.},
+  title = {Majoritarian Simulation Project},
+  year = {2025},
+  version = {1.0},
+  url = {https://github.com/your-username/majoritarian-simulation},
+  note = {Simulation code for studying majoritarian policy impacts under various scenarios.}
+}
+
+**APA**
+Reidpath, D. D. (2025). Majoritarian Simulation Project (Version 1.0) [Computer software]. GitHub. https://github.com/your-username/majoritarian-simulation
+
+
 
 ---
 
 ## License
-This project is licensed under the GNU General Public License v3.0. See `LICENSE` for more details.
+This project and all code is licensed under the GNU General Public License v3.0. See `LICENSE` for more details.
 
 ---
 
