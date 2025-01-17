@@ -94,7 +94,7 @@ Lorenz curve illustrating inequality:
 If you use this repository in your research or publication, please cite it as follows:
 
 **Bibtex**
-
+```
 @software{reidpath_majoritarian_simulation_2025,
   author = {Reidpath, Daniel D.},
   title = {Majoritarian Simulation Project},
@@ -103,6 +103,7 @@ If you use this repository in your research or publication, please cite it as fo
   url = {https://github.com/your-username/majoritarian-simulation},
   note = {Simulation code for studying majoritarian policy impacts under various scenarios.}
 }
+```
 
 **APA**
 
